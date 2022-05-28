@@ -4,6 +4,7 @@
 # r stuff
 .Rhistory
 
-# images
+# images and local copy
 imagekey.csv
 images/
+flashcard-local.r
