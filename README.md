@@ -4,11 +4,14 @@ expects a key file csv named imagekey.csv
 expects a directory called images/ with png tiff or jpeg/jpg.
 
 imagekey.csv should have minimum three columns
-filename with the name not the path of the file
+filename (actual filename not path) 
 id
 name
+sex
 
-id and name get pasted to form the label (answer)
+id, name, sex get pasted to form the label (answer)
+
+if you don't like this hard coded setup then just edit the first couple of linesthis is for me this isn't really for you.
 
 requires
 library(tiff)

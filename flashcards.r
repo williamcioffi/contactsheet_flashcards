@@ -9,7 +9,7 @@ imagepaths <- file.path("images", key$filename)
 nimages <- length(imagepaths)
 curdis <- 1
 
-key$label <- paste(key$id, key$name)
+key$label <- paste(key$id, key$name, key$sex)
 
 stdplot <- function(...) {
   plot(
