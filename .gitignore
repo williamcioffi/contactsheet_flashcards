@@ -7,4 +7,5 @@
 # images and local copy
 imagekey.csv
 images/
-flashcard-local.r
+app.R
+rsconnect/
