@@ -1,0 +1,9 @@
+# macos stuff
+.DS_Store
+
+# r stuff
+.Rhistory
+
+# images
+imagekey.csv
+images/
